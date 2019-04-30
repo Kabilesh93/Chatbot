@@ -1,108 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f12a70db-d70f-40dd-a785-1b0cb2766706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHITTI-api-credentials.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_cpl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_dtv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_hbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_mbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_mob.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_other.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_pln.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_pst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_rmg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_udf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/english_user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/english_intents/root_english.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/root_singlish.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_cpl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_dtv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_hbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_mbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_mob.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_other.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_pln.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_pst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_rmg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_udf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/singlish_intents/singlish_user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tamil_intents/root_tamil.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/root_tanglish.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_cpl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_dtv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_hbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_mbb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_mob.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_other.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_pln.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_pst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_rmg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_udf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/tanglish_intents/tanglish_user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_handlers/translate_intents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_all.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_cpl.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_dtv.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_hbb.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_mbb.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_mob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_other.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_pln.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_pst.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_rmg.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_udf.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/english_user.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/english_intents/root_english.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/root_sinhala.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_all.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_cpl.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_dtv.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_hbb.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_mbb.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_mob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_other.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_pln.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_pst.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_rmg.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_udf.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_user.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/root_tamil.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_all.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_cpl.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_dtv.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_hbb.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_mbb.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_mob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_other.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_pln.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_pst.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_rmg.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_udf.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_user.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_dialog_english.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_dialog_singlish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_dialog_sinhala.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_dialog_tamil.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_dialog_tanglish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity_handlers/get_entities.py" beforeDir="false" afterPath="$PROJECT_DIR$/entity_handlers/get_entities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity_handlers/put_entities.py" beforeDir="false" afterPath="$PROJECT_DIR$/entity_handlers/put_entities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/get_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/intent_handlers/get_intents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/put_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/intent_handlers/put_intents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_model.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/singlish_model.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_model.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_model.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tanglish_model.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f12a70db-d70f-40dd-a785-1b0cb2766706" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intent_handlers/put_intents.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -124,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -259,6 +158,11 @@
             <path>
               <item name="Chatbot" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chatbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chatbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chatbot" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -468,12 +372,12 @@
       <workItem from="1555495547540" duration="690000" />
       <workItem from="1555580692769" duration="12370000" />
       <workItem from="1556528146431" duration="21887000" />
-      <workItem from="1556595504619" duration="4688000" />
+      <workItem from="1556595504619" duration="4990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277459000" />
+    <option name="totallyTimeSpent" value="277761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -992,17 +896,17 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intent_handlers/put_intents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
