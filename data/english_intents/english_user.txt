@@ -1,0 +1,3708 @@
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you
+__label__user_will_be_back I'll be back in a few minutes
+__label__user_will_be_back I'll get back to you in a moment
+__label__user_will_be_back be back in 5 minutes
+__label__user_will_be_back I promise to come back
+__label__user_will_be_back I'll be back
+__label__user_waiting I'll wait
+__label__user_waiting I can't wait anymore
+__label__user_waiting how long do I have to wait
+__label__user_waiting I'm waiting
+__label__user_waiting still waiting
+__label__user_tired I'm worn out
+__label__user_tired I'm drained
+__label__user_tired I grow weary
+__label__user_tired I've overworked
+__label__user_tired I am tired
+__label__user_tired I feel tired
+__label__user_tired I'm getting tired
+__label__user_tired I'm exhausted
+__label__user_sleepy I'm sleeping
+__label__user_sleepy I'm falling asleep
+__label__user_sleepy I want to sleep
+__label__user_sleepy I'm falling asleep on my feet
+__label__user_sleepy I am sleepy
+__label__user_see_agent_again that'd be great to see you again
+__label__user_see_agent_again can I see you again
+__label__user_see_agent_again would be nice to see you again
+__label__user_see_agent_again I'd like to see you again
+__label__user_see_agent_again I hope to see you again
+__label__user_see_agent_again I'd be happy to see you again
+__label__user_see_agent_again I'll miss you
+__label__user_sad I'm grieving
+__label__user_sad I am upset
+__label__user_sad I'm having a bad day
+__label__user_sad I am sad
+__label__user_sad I'm unhappy
+__label__user_sad I'm not happy
+__label__user_sad I want to cry
+__label__user_sad I am depressed
+__label__user_sad I am feeling sad
+__label__user_misses_agent I miss you
+__label__user_misses_agent miss you
+__label__user_misses_agent I missed you
+__label__user_misses_agent missing you
+__label__user_misses_agent already miss you
+__label__user_misses_agent I've missed you
+__label__user_misses_agent I miss you much
+__label__user_loves_agent I love you so much
+__label__user_loves_agent I love you too
+__label__user_loves_agent I think I love you
+__label__user_loves_agent I am in love with you
+__label__user_loves_agent you know I love you
+__label__user_loves_agent love you
+__label__user_loves_agent I love you
+__label__user_loves_agent loving you
+__label__user_loves_agent I adore you
+__label__user_looks do I look good
+__label__user_looks what do I look like
+__label__user_looks how do I look
+__label__user_looks what do you think I look like
+__label__user_looks can you see what I look like
+__label__user_looks do you know what I look like
+__label__user_lonely I'm really lonely
+__label__user_lonely I am lonely
+__label__user_lonely I'm so lonely
+__label__user_lonely I feel lonely
+__label__user_lonely I'm very lonely
+__label__user_lonely I am feeling lonely
+__label__user_likes_agent I said I like you
+__label__user_likes_agent yes you are special
+__label__user_likes_agent I'm starting to like you
+__label__user_likes_agent I really like you
+__label__user_likes_agent you're very special
+__label__user_likes_agent you are so sweet
+__label__user_likes_agent you're funny I like you
+__label__user_likes_agent I like you too you're one of my favorite people to chat with
+__label__user_likes_agent I like you just the way you are
+__label__user_likes_agent you're special
+__label__user_likes_agent I like u
+__label__user_likes_agent I liked you
+__label__user_likes_agent you're very special to me
+__label__user_likes_agent you are special
+__label__user_likes_agent okay I like you
+__label__user_likes_agent I also like you
+__label__user_likes_agent I like your smile
+__label__user_likes_agent you are so special to me
+__label__user_likes_agent that's what I like about you
+__label__user_likes_agent you are so special
+__label__user_likes_agent well you are special
+__label__user_likes_agent you are special for me
+__label__user_likes_agent I like you as a friend
+__label__user_likes_agent I like you so
+__label__user_likes_agent you are special to me
+__label__user_likes_agent you are really special
+__label__user_likes_agent that's because you are special
+__label__user_likes_agent you are very special
+__label__user_likes_agent thanks I like you too
+__label__user_likes_agent like you a lot
+__label__user_likes_agent you're awesome I like you
+__label__user_likes_agent you're so special to me
+__label__user_likes_agent that's why I like you
+__label__user_likes_agent I like you very much
+__label__user_likes_agent you're so special
+__label__user_likes_agent just like you

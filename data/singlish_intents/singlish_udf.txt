@@ -1,0 +1,139 @@
+__label__udf_update_details update email address
+__label__udf_update_details update contact
+__label__udf_update_details how to change contact details
+__label__udf_update_details Update information
+__label__udf_update_details How to update details
+__label__udf_update_details i want to update my name
+__label__udf_sim_problems sim issue
+__label__udf_sim_problems how to get nano sim
+__label__udf_sim_problems sim is broken
+__label__udf_sim_problems my sim isnt working
+__label__udf_sim_problems I have sim problems
+__label__udf_sim_problems I said i will be change my diolog sim .. because we haven't signal
+__label__udf_sim_problems sim broken
+__label__udf_sim_problems change sim to nano sim
+__label__udf_sim_problems Problem with my SIM
+__label__udf_sim_problems SIM not working
+__label__udf_sim_problems I want to change my sim
+__label__udf_sim_downgrade sim downgrade
+__label__udf_sim_downgrade I want a 3G sim
+__label__udf_sim_downgrade Have you 4g sim become a 3g sim
+__label__udf_sim_downgrade I want to change my 4G SIM to a 3G SIM.
+__label__udf_sim_downgrade I want to downgrade sim
+__label__udf_sim_downgrade downgrade sim to 3g
+__label__udf_sim_downgrade change sim from 4g to 3g
+__label__udf_sim_downgrade how to change sim to 3g
+__label__udf_self_care_app mydialog app
+__label__udf_self_care_app No I can't connet my Broadband connection to My dialog app
+__label__udf_self_care_app my dialog app not working
+__label__udf_self_care_app Is there an app to control
+__label__udf_self_care_app How can I use the dialog selfcare app
+__label__udf_self_care_app I can't check fb balance through self care
+__label__udf_self_care_app I want to know about dialog app
+__label__udf_self_care_app selfcare app faq
+__label__udf_self_care_app I have a question about self-care app
+__label__udf_self_care_app How to download selfcare app
+__label__udf_self_care_app Change my name in selfcare app
+__label__udf_self_care_app Im unable to make a reload via the app
+__label__udf_self_care_app Where to download selfcare app
+__label__udf_self_care_app Dialog  selfcare
+__label__udf_self_care_app How to change password for selfcare app
+__label__udf_self_care_app How can I edit my name in my dialog apps?
+__label__udf_reconnect I want reconnect mobile 0774554423
+__label__udf_reconnect How to reconnect my mobile
+__label__udf_reconnect mobile reconnect
+__label__udf_reconnect Reconnection
+__label__udf_reconnect I want to reconnect my DTV
+__label__udf_pin_puk pin to unlock phone
+__label__udf_pin_puk my mobile phone is locked
+__label__udf_pin_puk my phone is locked
+__label__udf_pin_puk I need my sim pin
+__label__udf_pin_puk How to get puk code
+__label__udf_pin_puk puk
+__label__udf_pin_puk phone says it needs puk code
+__label__udf_pin_puk I need puk code to unlock phone
+__label__udf_pin_puk tell me how to unlock my phone
+__label__udf_myplan MyPlan
+__label__udf_myplan I want to convert my postpaid plan to myplan
+__label__udf_myplan How to get new myplan
+__label__udf_myplan buy new myplan
+__label__udf_mega_run I wanna get dialog mega run
+__label__udf_mega_run How much does mega run cost to play
+__label__udf_mega_run dialog megarun
+__label__udf_mega_run mega run
+__label__udf_mega_run How to download Dialog Mega Run
+__label__udf_mega_run what is dialog mega run daily challenge?
+__label__udf_lost_sim How do I replace my lost sim
+__label__udf_lost_sim What do I do if I lose my sim
+__label__udf_lost_sim I lost my phone
+__label__udf_lost_sim lost my mobile phone
+__label__udf_lost_sim I lost my sim
+__label__udf_lost_sim Lost sim
+__label__udf_lost_sim sim lost
+__label__udf_lost_sim Help me I lost my SIM
+__label__udf_lost_sim My sim was stolen
+__label__udf_lesi_pay How to use lesi pay
+__label__udf_lesi_pay lesi pay
+__label__udf_lesi_pay Tell me about lesi pay
+__label__udf_idd how much to call china
+__label__udf_idd how to activate idd
+__label__udf_idd How to get IDD
+__label__udf_idd idd
+__label__udf_idd idd to india
+__label__udf_idd idd rates
+__label__udf_idd how to deactivate idd
+__label__udf_idd international sms
+__label__udf_idd idd rates for malaysia
+__label__udf_idd international calls
+__label__udf_idd how much to call india
+__label__udf_ebill How can I get an e-bill
+__label__udf_ebill I want a softcopy of my bill
+__label__udf_ebill I want an ebill
+__label__udf_ebill Can I request for an ebill
+__label__udf_download_mydialog Download MyDialog
+__label__udf_disconnect_service how to deactivate per day dtv
+__label__udf_disconnect_service I cannot deactivate below service .
+__label__udf_disconnect_service disconnect dtv
+__label__udf_disconnect_service I want to unsubscribe my tv package
+__label__udf_disconnect_service If I have subscribed any package or any offer please unsubscribe them all
+__label__udf_disconnect_service my dtv connection is 6024308 how to disconnect
+__label__udf_disconnect_service I want to cancel my mobile service
+__label__udf_disconnect_service deactivate dtv
+__label__udf_disconnect_service Plz deactivate all ex service in this dialog number 0771504353
+__label__udf_disconnect_service dtv connection disconnect
+__label__udf_disconnect_service Help me stop my subscription to home broadband
+__label__udf_disconnect_service deactivate sim
+__label__udf_damaged_recharge My card internet pin number damage
+__label__udf_damaged_recharge My recharge card got damaged
+__label__udf_damaged_recharge Damaged recharge card
+__label__udf_damaged_recharge I accidentally damaged my reload card
+__label__udf_club_vision Dear i would like to know that how to get the priority card from dialog?
+__label__udf_club_vision Need to know about loyalty benefits
+__label__udf_club_vision How get membership card
+__label__udf_club_vision club vision
+__label__udf_club_vision I wanna get club vision card
+__label__udf_change_number I want to change my friends phone number
+__label__udf_change_number mobile number change
+__label__udf_change_number how to change my postpaid phone number
+__label__udf_change_number change mobile number
+__label__udf_change_number I want to change my mobile number
+__label__udf_change_number Can I change my phone number
+__label__udf_change_number How to change family phone number
+__label__udf_cdma Do you have CDMA plans
+__label__udf_cdma I want to know about CDMA
+__label__udf_cdma cdma
+__label__udf_cdma Problem with my fixed line
+__label__udf_balance_missing I have paid dialog 4G bill
+__label__udf_balance_missing My balance got deducted
+__label__udf_balance_missing I had reloded Rs 300.00 from my dialog app. But still I have'nt received that relod to my phone
+__label__udf_balance_missing my balance is not showing
+__label__udf_balance_missing It didn’t credit to m phone
+__label__udf_balance_missing Already payed could you please activate now
+__label__udf_balance_missing I paid
+__label__udf_balance_missing haven't gotten balance on my mobile
+__label__udf_balance_missing Recharge my line by my Visa card it’s not credited
+__label__udf_balance_missing Tell me about my missing balance
+__label__udf_balance_missing I recharged Rs. 50 but balance only shows Rs. 14
+__label__udf_balance_missing Why is my balance missing
+__label__udf_balance_missing What happened to my balance
+__label__udf_balance_missing where is my balance on my phone

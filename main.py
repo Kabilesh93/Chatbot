@@ -1,16 +1,10 @@
 from flask import Flask
-import fasttext
 from pymongo import MongoClient
 
 from intent_handlers.get_intents import *
 from entity_handlers.get_entities import *
 
 app = Flask(__name__)
-
-si_intent_model = fasttext.load_model('intent_models/sinhala_model.bin', label_prefix='__label__')
-ta_intent_model = fasttext.load_model('intent_models/tamil_model.bin', label_prefix='__label__')
-en_intent_model = fasttext.load_model('intent_models/english_model.bin', label_prefix='__label__')
-te_intent_model = fasttext.load_model('intent_models/tanglish_model.bin', label_prefix='__label__')
 
 client = MongoClient('mongodb://localhost:27017/')
 db = client.knowledge
@@ -19,10 +13,15 @@ db = client.knowledge
 @app.route('/getsinhala/<sentence>')
 def get_sinhala(sentence):
 
-    intent, probability = get_intent_si(sentence, si_intent_model)
+    intent, probability = get_intent_si(sentence)
 
-    if probability > 0.5:
-        return intent
+    entities = get_entity(sentence, db.si_entities)
+
+    print(entities)
+    print(intent)
+
+    if probability > 0.001:
+        return '{} \n {}'.format(intent, entities)
     else:
         return 'Sorry, we could not understand your inquiry properly'
 
@@ -30,27 +29,31 @@ def get_sinhala(sentence):
 @app.route('/gettamil/<sentence>')
 def get_tamil(sentence):
 
-    intent, probability = get_intent_ta(sentence, ta_intent_model)
+    intent, probability = get_intent_ta(sentence)
 
-    entities = get_entity_ta(sentence, db.tamil_chat)
+    entities = get_entity(sentence, db.ta_entities)
 
     print(entities)
+    print(intent)
 
-    if probability > 0.5:
-        print(intent)
-        return intent
+    if probability > 0.001:
+        return '{} \n {}'.format(intent, entities)
     else:
-        print('Sorry, we could not understand your inquiry properly')
         return 'Sorry, we could not understand your inquiry properly'
 
 
 @app.route('/getenglish/<sentence>')
 def get_english(sentence):
 
-    intent, probability = get_intent_en(sentence, en_intent_model)
+    intent, probability = get_intent_en(sentence)
 
-    if probability > 0.5:
-        return intent
+    entities = get_entity(sentence, db.en_entities)
+
+    print(entities)
+    print(intent)
+
+    if probability > 0.001:
+        return '{} \n {}'.format(intent, entities)
     else:
         return 'Sorry, we could not understand your inquiry properly'
 
@@ -60,9 +63,15 @@ def get_tanglish(sentence):
 
     intent, probability = get_intent_te(sentence, te_intent_model)
 
+    entities = get_entity(sentence, db.te_entities)
+
+    print(entities)
+
     if probability > 0.5:
+        print(intent)
         return intent
     else:
+        print('Sorry, we could not understand your inquiry properly')
         return 'Sorry, we could not understand your inquiry properly'
 
 

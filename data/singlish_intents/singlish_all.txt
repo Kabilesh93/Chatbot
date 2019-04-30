@@ -1,0 +1,105 @@
+__label__all_barred_account i can't do outgoing calls
+__label__all_barred_account my mobile number is barred
+__label__all_barred_account My Dialog TV is disconnected
+__label__all_barred_account i am barred
+__label__all_barred_account my mobile broadband is barred
+__label__all_barred_account my line is disconnected
+__label__all_barred_account i got barred
+__label__all_barred_account my mobile is barred
+__label__all_barred_account my home broadband is barred
+__label__all_barred_account My Dialog Television is barred
+__label__all_barred_account My number is disconnected
+__label__all_barred_account I can't call
+__label__all_barred_account my account is barred
+__label__all_barred_account Barred
+__label__all_barred_account I paid but my line is still barred
+__label__all_barred_account I paid but i still cannot call
+__label__all_change_address how to change my billing address
+__label__all_change_address I'll change my location so need to set satellite next location
+__label__all_change_address Change connection address
+__label__all_change_address I need to change my billing address
+__label__all_change_address how to change address
+__label__all_change_address Yes I want to change my address
+__label__all_change_address How can I change my billing address
+__label__all_change_address relocate my connection
+__label__all_check_balance Balance check
+__label__all_check_balance Can we know our usage of this month
+__label__all_check_balance What is my outstanding payment amount
+__label__all_check_balance Hi...kindly send me actual outstanding of my 4G data connection
+__label__all_check_balance how do I check my balance
+__label__all_check_balance check balance
+__label__all_check_balance what is my balance
+__label__all_check_balance outstanding payment
+__label__all_check_balance how to do balance check
+__label__all_check_balance How to find out my balance
+__label__all_downgrade_package how can I downgrade my plan
+__label__all_downgrade_package Help me downgrade my plan
+__label__all_downgrade_package How to downgrade plan
+__label__all_downgrade_package I want to downgrade my package
+__label__all_loan I want to take loan
+__label__all_loan I want a loan
+__label__all_loan available loans
+__label__all_loan loan
+__label__all_loan give me loan
+__label__all_new_connection I want to buy a new mobile connection
+__label__all_new_connection get new sim
+__label__all_new_connection purchase sim
+__label__all_new_connection how can I purchase a new connection
+__label__all_new_connection how much is a new sim card
+__label__all_new_connection I want to buy a new sim
+__label__all_new_connection buy new connection
+__label__all_new_connection want to buy mobile connection
+__label__all_new_connection I want to buy a new router
+__label__all_new_connection I want a new sim
+__label__all_pay_bill I want to pay my bill
+__label__all_pay_bill can I pay bill
+__label__all_pay_bill reload to get bill
+__label__all_pay_bill online reload
+__label__all_pay_bill I want to reload that
+__label__all_pay_bill please reload to 0774067872
+__label__all_pay_bill how to recharge
+__label__all_pay_bill I want to reload my account
+__label__all_pay_bill bill to account
+__label__all_pay_bill reload my account
+__label__all_SRTT_emergency help me to fix this problem
+__label__all_SRTT_emergency I want to make complaint
+__label__all_SRTT_emergency why is my service disconnected
+__label__all_SRTT_emergency it's not working
+__label__all_SRTT_emergency I have a complaint
+__label__all_SRTT_emergency what's wrong with my home broadband
+__label__all_SRTT_emergency my dialog tv is not working
+__label__all_SRTT_emergency facing issue with my package
+__label__all_SRTT_emergency lodge complaint
+__label__all_SRTT_emergency I want to lodge a complaint
+__label__all_switch_prepost prepaid to postpaid
+__label__all_switch_prepost how to change my plan from prepaid to postpaid
+__label__all_switch_prepost how to change from pre to post
+__label__all_switch_prepost reload to bill
+__label__all_switch_prepost need to change prepaid to postpaid
+__label__all_switch_prepost switch from prepaid to postpaid
+__label__all_switch_prepost Hi, I am having a 25 GB dialog internet package. This year, you guys have upgraded it to 33 GB. However, I need to change my package to 15 GB. Could you please tell me how I can do this and also tell me whether I would lose that extra 8 GB(33-25) if I ch
+__label__all_switch_prepost bill to reload
+__label__all_switch_prepost want to make prepaid to postpaid
+__label__all_switch_prepost I need change my postpaid data balance to prepaid
+__label__all_switch_prepost I want to make my mbb connection from prepaid to postpaid
+__label__all_switch_prepost switch prepaid to postpaid for hbb
+__label__all_switch_prepost I want to make my hbb connection from prepaid to postpaid
+__label__all_switch_prepost change my dtv to postpaid
+__label__all_switch_prepost change home broadband plan
+__label__all_switch_prepost change dialog tv plan
+__label__all_switch_prepost change mobile broadband plan
+__label__all_switch_prepost change dialog tv plan
+__label__all_switch_prepost change per day to postpaid for dtv
+__label__all_switch_prepost change my package of wifi
+__label__all_switch_prepost dialog tv change package
+__label__all_transfer_ownership how much to change owner
+__label__all_transfer_ownership ownership transfer
+__label__all_transfer_ownership how to transfer ownership
+__label__all_transfer_ownership can I transfer my connection to my brother
+__label__all_transfer_ownership can I transfer ownership
+__label__all_transfer_ownership can i transfer to someone else ownership
+__label__all_upgrade_package upgrades
+__label__all_upgrade_package how can I upgrade plan
+__label__all_upgrade_package upgrade plan
+__label__all_upgrade_package I want to upgrade my package
+__label__all_upgrade_package how to upgrade plan

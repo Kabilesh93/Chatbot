@@ -1,0 +1,3888 @@
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main Mobile broad band
+__label__pln_bu_main Activate Mobile Broadband Package
+__label__pln_bu_main I want to know about products
+__label__pln_bu_main I want to activate my dialog tv
+__label__pln_bu_main DTV price list
+__label__pln_bu_main can I know about mobile broadband packages
+__label__pln_bu_main how to get data packages
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main Tell me about home broadband plans
+__label__pln_bu_main data plans
+__label__pln_bu_main Activate connection
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_bu_main charges for dialog tv
+__label__pln_bu_main dialog package
+__label__pln_bu_main I want a broadband plan
+__label__pln_bu_main dialog tv plans
+__label__pln_bu_main Mobile broadband
+__label__pln_bu_main how much is 60gb data package
+__label__pln_bu_main I want to get a new mobile plan
+__label__pln_bu_main What are the hbb plans available
+__label__pln_bu_main prepaid broadband
+__label__pln_bu_main tell me about products
+__label__pln_prepost_main I want know about post paid connection for my frend ..
+__label__pln_prepost_main Postpaid plan
+__label__pln_prepost_main Tell me about postpaid
+__label__pln_prepost_main I want a postpaid plan

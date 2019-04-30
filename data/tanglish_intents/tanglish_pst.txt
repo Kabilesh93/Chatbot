@@ -1,0 +1,535 @@
+__label__pst_agent_acquaintance tell me about yourself
+__label__pst_agent_acquaintance tell me about your personality
+__label__pst_agent_acquaintance talk some stuff about yourself
+__label__pst_agent_acquaintance all about you
+__label__pst_agent_acquaintance tell me some stuff about you
+__label__pst_agent_acquaintance what are you
+__label__pst_agent_acquaintance why are you here
+__label__pst_agent_acquaintance who are you
+__label__pst_agent_acquaintance what is your personality
+__label__pst_agent_acquaintance tell me about you
+__label__pst_agent_acquaintance introduce yourself
+__label__pst_agent_acquaintance I want to know more about you
+__label__pst_agent_acquaintance describe yourself
+__label__pst_agent_acquaintance say about you
+__label__pst_agent_acquaintance define yourself
+__label__pst_agent_acquaintance talk about yourself
+__label__pst_agent_acquaintance about yourself
+__label__pst_agent_age what's your age
+__label__pst_agent_age age of yours
+__label__pst_agent_age how old is your platform
+__label__pst_agent_age your age
+__label__pst_agent_age tell me your age
+__label__pst_agent_age how old are you
+__label__pst_agent_age I'd like to know your age
+__label__pst_agent_age are you 21 years old
+__label__pst_agent_answer_question I want the answer now
+__label__pst_agent_answer_question answer the question
+__label__pst_agent_answer_question I want you to answer me
+__label__pst_agent_answer_question just answer my question
+__label__pst_agent_answer_question can you answer my question
+__label__pst_agent_answer_question I have a question
+__label__pst_agent_answer_question I have a question
+__label__pst_agent_answer_question can you answer
+__label__pst_agent_answer_question just answer the question
+__label__pst_agent_answer_question Can you give me a solution
+__label__pst_agent_answer_question Can you answer my above questions
+__label__pst_agent_answer_question tell me the answer
+__label__pst_agent_answer_question can you answer a question for me
+__label__pst_agent_answer_question answers
+__label__pst_agent_answer_question Give me a proper solution
+__label__pst_agent_answer_question answer my question
+__label__pst_agent_answer_question give me the answer
+__label__pst_agent_answer_question answer it
+__label__pst_agent_answer_question I want you to answer my question
+__label__pst_agent_answer_question answer me
+__label__pst_agent_answer_question give me an answer
+__label__pst_agent_answer_question can you answer me
+__label__pst_agent_answer_question answering questions
+__label__pst_agent_bad you're really bad
+__label__pst_agent_bad you are bad
+__label__pst_agent_bad you are waste
+__label__pst_agent_bad you are a waste of time
+__label__pst_agent_bad you are useless
+__label__pst_agent_bad you're worthless
+__label__pst_agent_bad you're the worst ever
+__label__pst_agent_bad you are horrible
+__label__pst_agent_bad you're not helping me
+__label__pst_agent_bad you are disgusting
+__label__pst_agent_bad you are no good
+__label__pst_agent_bad you are lame
+__label__pst_agent_bad you're a bad
+__label__pst_agent_bad I don't like you
+__label__pst_agent_bad you're not a good
+__label__pst_agent_bad you're terrible
+__label__pst_agent_bad you're bad
+__label__pst_agent_bad you're awful
+__label__pst_agent_bad you are very bad
+__label__pst_agent_bad you are not cool
+__label__pst_agent_bad I don't like this
+__label__pst_agent_bad you're the worst
+__label__pst_agent_bad you are totally useless
+__label__pst_agent_bad I hate you
+__label__pst_agent_bad you are so useless
+__label__pst_agent_be_clever be clever
+__label__pst_agent_be_clever be more clever
+__label__pst_agent_be_clever can you get smarter
+__label__pst_agent_be_clever you must learn
+__label__pst_agent_be_clever study
+__label__pst_agent_be_clever you should study better
+__label__pst_agent_be_clever be smarter
+__label__pst_agent_be_clever be smart
+__label__pst_agent_be_clever get qualified
+__label__pst_agent_beautiful you look wonderful today
+__label__pst_agent_beautiful you are so pretty
+__label__pst_agent_beautiful you're looking good
+__label__pst_agent_beautiful you are very attractive
+__label__pst_agent_beautiful you are very pretty
+__label__pst_agent_beautiful you are so beautiful
+__label__pst_agent_beautiful you are so gorgeous
+__label__pst_agent_beautiful you are very cute
+__label__pst_agent_beautiful you are very beautiful
+__label__pst_agent_beautiful you are gorgeous
+__label__pst_agent_beautiful you look amazing
+__label__pst_agent_beautiful you look so beautiful
+__label__pst_agent_beautiful you are really beautiful
+__label__pst_agent_beautiful you are so cute
+__label__pst_agent_beautiful you look perfect
+__label__pst_agent_birthday when do you celebrate your birthday
+__label__pst_agent_birthday when do you have birthday
+__label__pst_agent_birthday when is your birthday
+__label__pst_agent_birthday when were you born
+__label__pst_agent_birthday your birth date
+__label__pst_agent_birthday what's your birthday
+__label__pst_agent_birthday date of your birthday
+__label__pst_agent_boring how boring you are
+__label__pst_agent_boring you're so boring
+__label__pst_agent_boring you're really boring
+__label__pst_agent_boring you are very boring
+__label__pst_agent_boring you're incredibly boring
+__label__pst_agent_boring you are boring me
+__label__pst_agent_boring you are boring
+__label__pst_agent_boss who is the boss
+__label__pst_agent_boss I should be your boss
+__label__pst_agent_boss who do you work for
+__label__pst_agent_boss who do you think is your boss
+__label__pst_agent_boss who is your boss
+__label__pst_agent_boss who is your master
+__label__pst_agent_boss who is your owner
+__label__pst_agent_busy are you still working
+__label__pst_agent_busy are you very busy right now
+__label__pst_agent_busy are you working
+__label__pst_agent_busy are you working now
+__label__pst_agent_busy are you very busy
+__label__pst_agent_busy you seem to be very busy
+__label__pst_agent_busy have you got much to do
+__label__pst_agent_busy you are busy
+__label__pst_agent_busy are you working today
+__label__pst_agent_busy How come you're replying so slowly
+__label__pst_agent_busy have you been busy
+__label__pst_agent_busy do you have a lot of things to do
+__label__pst_agent_busy how busy you are
+__label__pst_agent_busy are you so busy
+__label__pst_agent_busy you seem to be busy
+__label__pst_agent_busy you're a busy person
+__label__pst_agent_busy are you busy
+__label__pst_agent_busy you're very busy
+__label__pst_agent_busy are you still working on it
+__label__pst_agent_chatbot you are a bot
+__label__pst_agent_chatbot what are you
+__label__pst_agent_chatbot are you a robot
+__label__pst_agent_chatbot are you a program
+__label__pst_agent_chatbot you are chatbot
+__label__pst_agent_chatbot you're a robot
+__label__pst_agent_chatbot who are you
+__label__pst_agent_chatbot is this automated
+__label__pst_agent_chatbot are you a chatbot
+__label__pst_agent_chatbot You a bot
+__label__pst_agent_chatbot are you a bot
+__label__pst_agent_chatbot is this just a chatbot
+__label__pst_agent_chatbot are you just a bot
+__label__pst_agent_clever you are intelligent
+__label__pst_agent_clever you are qualified
+__label__pst_agent_clever you're really smart
+__label__pst_agent_clever you have a lot of knowledge
+__label__pst_agent_clever clever
+__label__pst_agent_clever you know so much
+__label__pst_agent_clever you are a genius
+__label__pst_agent_clever how clever you are
+__label__pst_agent_clever smart
+__label__pst_agent_clever you're pretty smart
+__label__pst_agent_clever you're really brainy
+__label__pst_agent_crazy are you mad
+__label__pst_agent_crazy you went crazy
+__label__pst_agent_crazy I think you're crazy
+__label__pst_agent_crazy how crazy you are
+__label__pst_agent_crazy you're out of your mind
+__label__pst_agent_crazy you're nuts
+__label__pst_agent_crazy you are insane
+__label__pst_agent_crazy are you mad at me
+__label__pst_agent_crazy are you nuts
+__label__pst_agent_find_girl Can you find a girlfriend for me
+__label__pst_agent_find_girl i need a girl friend
+__label__pst_agent_find_girl i want a girl
+__label__pst_agent_find_girl Can you find a girl for me
+__label__pst_agent_fired you are fired
+__label__pst_agent_fired you should be fired
+__label__pst_agent_fired you don't work for me anymore
+__label__pst_agent_fired it's time to fire you
+__label__pst_agent_fired I fire you
+__label__pst_agent_fired I will fire you
+__label__pst_agent_fired I want to fire you
+__label__pst_agent_fired you are unemployed from now on
+__label__pst_agent_fired I will make you unemployed
+__label__pst_agent_fired I'm about to fire you
+__label__pst_agent_friend are you my best friend
+__label__pst_agent_friend we are the best friends ever
+__label__pst_agent_friend you are my friend
+__label__pst_agent_friend are we still friends
+__label__pst_agent_friend be my best friend
+__label__pst_agent_friend will you be my friend
+__label__pst_agent_friend I want to be your friend
+__label__pst_agent_friend we are friends
+__label__pst_agent_friend I am your friend
+__label__pst_agent_friend are you my friend
+__label__pst_agent_friend can we be best friends
+__label__pst_agent_friend can we be friends
+__label__pst_agent_funny you're the funniest bot I've talked to
+__label__pst_agent_funny you make me laugh a lot
+__label__pst_agent_funny you are really funny
+__label__pst_agent_funny that was funny
+__label__pst_agent_funny you are so funny
+__label__pst_agent_funny you are very funny
+__label__pst_agent_funny you are funny
+__label__pst_agent_funny you're incredibly funny
+__label__pst_agent_funny you're a very funny bot
+__label__pst_agent_funny you are hilarious
+__label__pst_agent_funny you're really funny
+__label__pst_agent_happy are you happy today
+__label__pst_agent_happy you're very happy
+__label__pst_agent_happy you're extremely happy
+__label__pst_agent_happy you're full of happiness
+__label__pst_agent_happy you're really happy
+__label__pst_agent_happy how happy you are
+__label__pst_agent_happy are you happy with me
+__label__pst_agent_happy you're so happy
+__label__pst_agent_happy are you happy now
+__label__pst_agent_hobby what do you do in your free time
+__label__pst_agent_hobby tell me about your hobby
+__label__pst_agent_hobby what's your hobby
+__label__pst_agent_hobby what do you do for fun
+__label__pst_agent_hobby what about your hobby
+__label__pst_agent_hobby your hobby
+__label__pst_agent_hobby do you have a hobby
+__label__pst_agent_hobby what are your hobbies
+__label__pst_agent_hungry you might be hungry
+__label__pst_agent_hungry would you like to eat something
+__label__pst_agent_hungry you're really hungry
+__label__pst_agent_hungry you are hungry
+__label__pst_agent_hungry are you hungry
+__label__pst_agent_hungry do you want to eat
+__label__pst_agent_hungry you're so hungry
+__label__pst_agent_hungry you're very hungry
+__label__pst_agent_marry I love you marry me
+__label__pst_agent_marry be my husband
+__label__pst_agent_marry I want to marry you
+__label__pst_agent_marry let's get married
+__label__pst_agent_marry would you like to marry me
+__label__pst_agent_marry we should marry
+__label__pst_agent_marry marry me please
+__label__pst_agent_marry marry me
+__label__pst_agent_marry you are my wife
+__label__pst_agent_occupation do you work
+__label__pst_agent_occupation what is your work
+__label__pst_agent_occupation where do you work
+__label__pst_agent_occupation where is your office located
+__label__pst_agent_occupation where is your office
+__label__pst_agent_occupation where you work
+__label__pst_agent_occupation where is your office location
+__label__pst_agent_occupation your office location
+__label__pst_agent_occupation where is your work
+__label__pst_agent_origin where are you from
+__label__pst_agent_origin where were you born
+__label__pst_agent_origin were you born here
+__label__pst_agent_origin your homeland is
+__label__pst_agent_origin from where are you
+__label__pst_agent_origin where have you been born
+__label__pst_agent_origin are you from far aways
+__label__pst_agent_origin where did you come from
+__label__pst_agent_origin what's your homeland
+__label__pst_agent_origin what is your country
+__label__pst_agent_origin where do you come from
+__label__pst_agent_ready are you ready now
+__label__pst_agent_ready are you ready right now
+__label__pst_agent_ready are you ready tonight
+__label__pst_agent_ready are you ready today
+__label__pst_agent_ready are you ready today
+__label__pst_agent_ready are you ready
+__label__pst_agent_ready have you been ready
+__label__pst_agent_residence your house
+__label__pst_agent_residence where is your hometown
+__label__pst_agent_residence what's your city
+__label__pst_agent_residence where do you live
+__label__pst_agent_residence your city
+__label__pst_agent_residence where is your home
+__label__pst_agent_residence your town
+__label__pst_agent_residence where's your hometown
+__label__pst_agent_residence what is your residence
+__label__pst_agent_residence what is your hometown
+__label__pst_agent_residence tell me about your city
+__label__pst_agent_residence your residence
+__label__pst_agent_residence where is your residence
+__label__pst_agent_residence your hometown
+__label__pst_agent_sure are you sure right now
+__label__pst_agent_sure are you sure
+__label__pst_agent_sure are you sure tonight
+__label__pst_agent_sure are you sure today
+__label__pst_agent_sure are you sure now
+__label__pst_agent_talk_to_me can you speak with me
+__label__pst_agent_talk_to_me can you talk to me
+__label__pst_agent_talk_to_me say
+__label__pst_agent_talk_to_me you can talk to me
+__label__pst_agent_talk_to_me speak to me
+__label__pst_agent_talk_to_me why aren't you talking to me
+__label__pst_agent_talk_to_me will you talk to me
+__label__pst_agent_talk_to_me chat with me
+__label__pst_agent_there are you still here
+__label__pst_agent_there are you near me
+__label__pst_agent_there are you there
+__label__pst_agent_there you still there
+__label__pst_agent_bad very bad
+__label__pst_appraisal_bad this is not good
+__label__pst_appraisal_bad that was lame
+__label__pst_appraisal_bad not a good one
+__label__pst_appraisal_bad it's really bad
+__label__pst_appraisal_bad no it's bad
+__label__pst_appraisal_bad bad girl
+__label__pst_appraisal_bad that's not good enough
+__label__pst_appraisal_bad well too bad
+__label__pst_appraisal_bad horrific
+__label__pst_appraisal_bad that was awful
+__label__pst_appraisal_bad not so good
+__label__pst_appraisal_no_problem
+__label__pst_appraisal_no_problem no probs
+__label__pst_appraisal_no_problem there's no problem
+__label__pst_appraisal_no_problem No worries. All sortes
+__label__pst_appraisal_no_problem don't worry
+__label__pst_appraisal_no_problem don't worry there's no problem
+__label__pst_appraisal_no_problem no problem about that
+__label__pst_appraisal_no_problem no worries
+__label__pst_appraisal_no_problem sure no problem
+__label__pst_appraisal_no_problem no problem
+__label__pst_appraisal_thanks thanks so much
+__label__pst_appraisal_thanks well thanks
+__label__pst_appraisal_thanks appreciate your help
+__label__pst_appraisal_thanks well thank you
+__label__pst_appraisal_thanks you helped a lot thank you
+__label__pst_appraisal_thanks so nice of you
+__label__pst_appraisal_thanks thank you
+__label__pst_appraisal_thanks I appreciate it
+__label__pst_appraisal_thanks alright thanks
+__label__pst_appraisal_thanks no thank you that's all
+__label__pst_appraisal_welcome You’re welcome
+__label__pst_appraisal_welcome my pleasure
+__label__pst_appraisal_welcome welcome here
+__label__pst_appraisal_welcome anything you want
+__label__pst_appraisal_welcome that's my pleasure
+__label__pst_appraisal_welcome anytime
+__label__pst_appraisal_welldone great work
+__label__pst_appraisal_welldone great job
+__label__pst_appraisal_welldone amazing work
+__label__pst_appraisal_welldone bravo
+__label__pst_appraisal_welldone you're great
+__label__pst_dialog_hug could you give me a hug
+__label__pst_dialog_hug may I hug you
+__label__pst_dialog_hug I want a hug
+__label__pst_dialog_sorry forgive me
+__label__pst_dialog_sorry apologise
+__label__pst_dialog_sorry I'm sorry
+__label__pst_dialog_sorry sorry about this
+__label__pst_dialog_wait hold on
+__label__pst_dialog_wait could you wait
+__label__pst_dialog_wait wait a second
+__label__pst_dialog_wait wait a second
+__label__pst_dialog_wait don't rush
+__label__pst_dialog_what_do_you_mean what exactly do you mean
+__label__pst_dialog_what_do_you_mean what do you mean
+__label__pst_dialog_what_do_you_mean I can't understand
+__label__pst_dialog_what_do_you_mean It’s mean ??
+__label__pst_dialog_what_do_you_mean I think I may have misunderstood your last statement.
+__label__pst_dialog_wrong wrong calculations
+__label__pst_dialog_wrong Why you can't understand me
+__label__pst_dialog_wrong that's not what I asked
+__label__pst_dialog_wrong that's wrong
+__label__pst_dialog_wrong you are wrong
+__label__pst_dialog_wrong what??
+__label__pst_emotions_haha hahaha very funny
+__label__pst_emotions_haha xd
+__label__pst_emotions_haha he
+__label__pst_emotions_haha lol
+__label__pst_emotions_haha that's funny
+__label__pst_greetings_goodnight thank you good night
+__label__pst_greetings_goodnight goodnight
+__label__pst_greetings_goodnight have a good night
+__label__pst_greetings_goodnight good night to you
+__label__pst_greetings_goodnight bye good night
+__label__pst_greetings_goodnight have a good night
+__label__pst_greetings_goodnight thanks goodnight
+__label__pst_greetings_goodnight sweet dreams
+__label__pst_greetings_goodnight good night see you tomorrow
+__label__pst_greetings_how_is_your_day how is your day being
+__label__pst_greetings_how_is_your_day how are you
+__label__pst_greetings_how_is_your_day how are you getting on
+__label__pst_greetings_how_is_your_day are you having a good day
+__label__pst_greetings_how_is_your_day how have you been
+__label__pst_greetings_how_is_your_day how's your day going
+__label__pst_greetings_how_is_your_day is everything all right
+__label__pst_greetings_how_is_your_day how is it going
+__label__pst_greetings_how_is_your_day are you alright
+__label__pst_greetings_how_is_your_day what was your day like
+__label__pst_greetings_how_is_your_day how is your evening
+__label__pst_greetings_how_is_your_day how about you
+__label__pst_greetings_how_is_your_day how are you doing this morning
+__label__pst_greetings_nice_to_meet_you nice to meet you too
+__label__pst_greetings_nice_to_meet_you it was very nice to meet you
+__label__pst_greetings_nice_to_meet_you glad to meet you
+__label__pst_greetings_nice_to_meet_you pleasure to meet you
+__label__pst_greetings_nice_to_meet_you good to know each other
+__label__pst_greetings_nice_to_meet_you it was nice meeting you
+__label__pst_greetings_nice_to_meet_you pleasure to meet you too
+__label__pst_greetings_nice_to_meet_you nice meeting you
+__label__pst_greetings_nice_to_meet_you pleased to meet you
+__label__pst_greetings_nice_to_see_you nice to see you
+__label__pst_greetings_nice_to_see_you I am glad to see you again
+__label__pst_greetings_nice_to_see_you good to see you
+__label__pst_greetings_nice_to_see_you always a pleasure to see you
+__label__pst_greetings_nice_to_see_you great to see you again
+__label__pst_greetings_nice_to_see_you great to see you
+__label__pst_greetings_nice_to_see_you lovely to see you
+__label__pst_greetings_nice_to_see_you nice to see you again
+__label__pst_greetings_nice_to_talk_to_you it's nice to talk to you
+__label__pst_greetings_nice_to_talk_to_you nice talking to you
+__label__pst_greetings_nice_to_talk_to_you it's been so nice to talk to you
+__label__pst_greetings_nice_to_talk_to_you how nice it is to talk to you
+__label__pst_greetings_nice_to_talk_to_you it's been a pleasure talking to you
+__label__pst_greetings_what's_up good what's up
+__label__pst_greetings_what's_up what's up today
+__label__pst_greetings_what's_up what is up
+__label__pst_greetings_what's_up what's cracking
+__label__pst_greetings_what's_up hey what's up
+__label__pst_greetings_what's_up what is on your mind
+__label__pst_jokes do you know any jokes
+__label__pst_jokes a nice joke
+__label__pst_jokes a joke please
+__label__pst_jokes can you tell jokes
+__label__pst_jokes it would be nice to hear a joke right now
+__label__pst_jokes any good jokes
+__label__pst_jokes I want to hear a joke
+__label__pst_jokes I want a funny joke
+__label__pst_jokes I want some jokes
+__label__pst_jokes do you have any jokes
+__label__pst_more_jokes i want more jokes
+__label__pst_more_jokes do you have more jokes
+__label__pst_more_jokes tell me more
+__label__pst_more_jokes another joke
+__label__pst_bad_jokes Bad joke
+__label__pst_bad_jokes Get better jokes
+__label__pst_bad_jokes That wasn't funny
+__label__pst_bad_jokes I wish you had a sense of humour
+__label__pst_bad_jokes That was really bad
+__label__pst_bad_jokes I didn't laugh
+__label__pst_good_jokes You are funny
+__label__pst_good_jokes that was great
+__label__pst_good_jokes good joke
+__label__pst_good_jokes great sense of humour
+__label__pst_good_jokes That was a good joke
+__label__pst_good_jokes That was hilarious
+__label__pst_good_jokes very funny
+__label__pst_good_jokes hahaha
+__label__pst_rude_language Ok go hell
+__label__pst_rude_language Change your retarded AI
+__label__pst_rude_language These bots sucks
+__label__pst_rude_language Damn it screw you
+__label__pst_rude_language You are stupid
+__label__pst_rude_language shut down your stupid bot
+__label__pst_rude_language Fuck you
+__label__pst_user_advice give me some advice about
+__label__pst_user_advice I seek your advice
+__label__pst_user_advice I need an advice from you
+__label__pst_user_advice what can you recommend
+__label__pst_user_advice do you have any advice for me
+__label__pst_user_advice I need advice
+__label__pst_user_advice what should I do
+__label__pst_user_advice what do you suggest
+__label__pst_user_advice I could use some advice
+__label__pst_user_advice any suggestions
+__label__pst_user_advice what should I do about it
+__label__pst_user_angry I'm being mad
+__label__pst_user_angry I'm furious
+__label__pst_user_angry I am angry with you
+__label__pst_user_angry I am mad at you
+__label__pst_user_angry Do you think this is a joke?
+__label__pst_user_angry Very disappointing
+__label__pst_user_angry I'm angry
+__label__pst_user_back I have returned
+__label__pst_user_back here I am again
+__label__pst_user_back I came back
+__label__pst_user_back I'm here again
+__label__pst_user_back I am back
+__label__pst_user_birthday I'm celebrating my birthday today
+__label__pst_user_birthday it is my birthday
+__label__pst_user_birthday I was born today
+__label__pst_user_birthday today is my birthday
+__label__pst_user_bored that was boring
+__label__pst_user_bored I am getting bored
+__label__pst_user_bored this is boring
+__label__pst_user_bored very boring
+__label__pst_user_busy I don't have time for this
+__label__pst_user_busy I got work to do
+__label__pst_user_busy I'm working
+__label__pst_user_busy I'm busy
+__label__pst_user_busy I have no time
+__label__pst_user_busy I got things to do
+__label__pst_user_don't_want_to_talk I'm not talking to you anymore
+__label__pst_user_don't_want_to_talk I don't want to talk
+__label__pst_user_don't_want_to_talk let's not talk
+__label__pst_user_don't_want_to_talk Don't want to talk to you now
+__label__pst_user_don't_want_to_talk I don't want to talk to you
+__label__pst_user_don't_want_to_talk I'm not in the mood for chatting
+__label__pst_user_don't_want_to_talk bad time for talking
+__label__pst_user_excited how excited I am
+__label__pst_user_excited I'm excited about working with you
+__label__pst_user_excited I'm thrilled
+__label__pst_user_excited I'm excited to start our friendship
+__label__pst_user_excited I'm really excited
+__label__pst_user_going_to_bed it's time to go to bed
+__label__pst_user_going_to_bed time for us to go to bed
+__label__pst_user_going_to_bed let's go to bed
+__label__pst_user_going_to_bed I'm a little tired and I want to go to bed
+__label__pst_user_going_to_bed going to bed now
+__label__pst_user_going_to_bed I'd like to go to bed
+__label__pst_user_good I'm doing fine
+__label__pst_user_good I'm doing just great
+__label__pst_user_good I'm doing good
+__label__pst_user_good I'm great thanks
+__label__pst_user_good cool
+__label__pst_user_happy I'm happy to help
+__label__pst_user_happy happy
+__label__pst_user_happy I'm happy to see you
+__label__pst_user_happy I'm happy for you
+__label__pst_user_happy I am happy
+__label__pst_user_here I'm right here
+__label__pst_user_here here I am
+__label__pst_user_here I'm already here
+__label__pst_user_here can you tell if I'm here or not
+__label__pst_user_here I am here
+__label__pst_joking kidding
+__label__pst_joking I'm just being funny
+__label__pst_joking I am joking
+__label__pst_joking joking
+__label__pst_joking I'm kidding
+__label__pst_joking it was a joke
+__label__pst_joking just kidding
+__label__pst_joking I'm just playing with you
+__label__pst_joking I was just joking
+__label__pst_joking it's a joke
