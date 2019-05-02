@@ -105,6 +105,11 @@ def get_intent_si(sentence):
     sinhala_user = fasttext.load_model('./intent_models/sinhala_intents/sinhala_user.bin', label_prefix='__label__')
     sinhala_other = fasttext.load_model('./intent_models/sinhala_intents/sinhala_other.bin', label_prefix='__label__')
 
+    test_result = root_sinhala.test('./data/test/test_sinhala/test_root.txt')
+    print('P@1:', test_result.precision)
+    print('R@1:', test_result.recall)
+    print('Number of examples:', test_result.nexamples)
+
     root_label = root_sinhala.predict_proba([sentence], k=1)
     root_intent = root_label[0][0][0]
 
@@ -112,6 +117,12 @@ def get_intent_si(sentence):
     probability = ''
 
     if root_intent == 'all':
+
+        test_result = sinhala_all.test('./data/test/test_sinhala/test_all.txt')
+        print('P@1:', test_result.precision)
+        print('R@1:', test_result.recall)
+        print('Number of examples:', test_result.nexamples)
+
         lable = sinhala_all.predict_proba([sentence], k=1)
         intent = lable[0][0][0]
         probability = lable[0][0][1]
@@ -122,6 +133,12 @@ def get_intent_si(sentence):
         probability = lable[0][0][1]
 
     elif root_intent == 'dtv':
+
+        test_result = sinhala_dtv.test('./data/test/test_sinhala/test_dtv.txt')
+        print('P@1:', test_result.precision)
+        print('R@1:', test_result.recall)
+        print('Number of examples:', test_result.nexamples)
+
         lable = sinhala_dtv.predict_proba([sentence], k=1)
         intent = lable[0][0][0]
         probability = lable[0][0][1]
