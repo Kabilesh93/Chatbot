@@ -2,12 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12a70db-d70f-40dd-a785-1b0cb2766706" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/class_handlers/put_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sinhala_data/sinhala_hate_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/get_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/intent_handlers/get_intents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/translate_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/intent_handlers/translate_intents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity_handlers/get_entities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity_handlers/put_entities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_handlers/get_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_handlers/get_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_handlers/put_intents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_handlers/translate_intents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_all.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_cpl.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_dtv.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_hbb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_mbb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_mob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_other.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_pln.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_pst.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_rmg.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_udf.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_user.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/root_english.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/root_sinhala.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_all.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_cpl.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_dtv.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_hbb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_mbb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_mob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_other.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_pln.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_pst.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_rmg.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_udf.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_user.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/root_tamil.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_all.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_cpl.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_dtv.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_hbb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_mbb.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_mob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_other.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_pln.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_pst.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_rmg.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_udf.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_user.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,57 +61,6 @@
     <SUITE FILE_PATH="coverage/Chatbot$main.coverage" NAME="main Coverage Results" MODIFIED="1553695459883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chatbot$put_intents.coverage" NAME="put_intents Coverage Results" MODIFIED="1553695435705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intent_handlers" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intent_handlers/translate_intents.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intent_handlers/get_intents.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="139" selection-start-line="139" selection-end-line="139" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_dtv.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1322">
-              <caret line="669" column="44" lean-forward="true" selection-start-line="669" selection-start-column="44" selection-end-line="669" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -75,134 +68,33 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>owner</find>
-      <find>prepaid broadband</find>
-      <find>mbb</find>
-      <find>__label__all_barred_account</find>
-      <find>__label__cpl_bb_main</find>
-      <find>__label__dtv_channels</find>
-      <find>__label__hbb_change_address</find>
-      <find>__label__mbb_extensions</find>
-      <find>__label__pln_bu_main</find>
-      <find>__label__pst_agent_acquaintance</find>
-      <find>__label__rmg_roaming_na</find>
-      <find>__label__udf_update_details</find>
-      <find>__label__user_will_be_back</find>
-      <find>__label__other_language_switch</find>
-      <find>__label__mob_account_balance</find>
-      <find>i can't do outgoing calls</find>
-      <find>__label__cpl_bb_main broadband</find>
-      <find>__label__dtv_channels how to activate dtv channel</find>
-      <find>__label__rmg_roaming_na I want data roaming in zimbabwe</find>
-      <find>__label__hbb_change_address I need to change my home address for hbb</find>
-      <find>__label__mbb_extensions is colombo covered by 4g</find>
-      <find>__label__all i can't do outgoing calls</find>
-      <find>__label__all_barred_account i can't do outgoing calls</find>
-      <find>__label__mob_account_balance What is my mobile bill balance</find>
-      <find>__label__other_language_switch tamil</find>
-      <find>__label__pln_bu_main prepaid broadband</find>
-      <find>__label__pst_agent_acquaintance tell me about yourself</find>
-      <find>__label__rmg_roaming_na data roaming zimbabwe</find>
-      <find>__label__udf_update_details update email address</find>
-      <find>__label__user_will_be_back I'll be back in a few minutes</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/data/singlish_intents/singlish_udf.txt" />
-        <option value="$PROJECT_DIR$/data/singlish_intents/singlish_user.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_dtv.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_hbb.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_mbb.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_mob.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_other.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_pln.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_pst.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_rmg.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_udf.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_user.txt" />
-        <option value="$PROJECT_DIR$/data/english_intents/english_mob.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_all.txt" />
-        <option value="$PROJECT_DIR$/data/tanglish_intents/tanglish_cpl.txt" />
-        <option value="$PROJECT_DIR$/data/english_intents/root_english.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_all.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_cpl.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_dtv.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_hbb.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_mbb.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_mob.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_other.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_pln.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_pst.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_rmg.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_udf.txt" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/sinhala_user.txt" />
-        <option value="$PROJECT_DIR$/entity_handlers/put_entities.py" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/root_tamil.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_all.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_cpl.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_dtv.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_hbb.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_mbb.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_mob.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_other.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_pln.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_pst.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_rmg.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_udf.txt" />
-        <option value="$PROJECT_DIR$/data/tamil_intents/tamil_user.txt" />
-        <option value="$PROJECT_DIR$/intent_handlers/put_intents.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/intent_handlers/translate_intents.py" />
-        <option value="$PROJECT_DIR$/data/sinhala_intents/root_sinhala.txt" />
-        <option value="$PROJECT_DIR$/data/test.txt" />
-        <option value="$PROJECT_DIR$/data/test/test_sinhala/test_all.txt" />
-        <option value="$PROJECT_DIR$/data/test/test_sinhala/test_dtv.txt" />
-        <option value="$PROJECT_DIR$/intent_handlers/get_intents.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1299" />
-    <option name="height" value="743" />
-  </component>
+  <component name="ProjectId" id="1UFfroc4zWwa0BkGvjkVvh9apn1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Chatbot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chatbot" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Chatbot-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chatbot_Optimization" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -215,18 +107,6 @@
       <recent name="$PROJECT_DIR$/data/tamil_intents" />
       <recent name="$PROJECT_DIR$/data/singlish_intents" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -243,6 +123,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="put_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_handlers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_handlers/put_classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="toKabilesh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Chatbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,34 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/toKabilesh.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="translate_intents" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Chatbot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intent_handlers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intent_handlers/translate_intents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,14 +222,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.translate_intents" />
+        <item itemvalue="Python.put_classes" />
         <item itemvalue="Python.put_intents" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.put_entities" />
-        <item itemvalue="Python.toKabilesh" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="2" BundledDictionary0="python.dic" BundledDictionary1="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="2" BundledDictionary0="python.dic" BundledDictionary1="english.dic" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -398,67 +278,101 @@
       <workItem from="1555580692769" duration="12370000" />
       <workItem from="1556528146431" duration="21887000" />
       <workItem from="1556595504619" duration="12387000" />
-      <workItem from="1556769362668" duration="5678000" />
+      <workItem from="1556769362668" duration="8826000" />
+      <workItem from="1556876065693" duration="6431000" />
+      <workItem from="1557118808394" duration="1404000" />
+      <workItem from="1557121760005" duration="1686000" />
+      <workItem from="1557130622834" duration="1263000" />
+      <workItem from="1557141955330" duration="1760000" />
+      <workItem from="1557199928515" duration="145000" />
+      <workItem from="1557203529080" duration="2695000" />
+      <workItem from="1557383955653" duration="1142000" />
+      <workItem from="1557459596959" duration="1600000" />
+      <workItem from="1557481879965" duration="3699000" />
+      <workItem from="1557549183022" duration="3016000" />
+      <workItem from="1557718797305" duration="1239000" />
+      <workItem from="1562409746052" duration="41000" />
+      <workItem from="1562412376076" duration="36000" />
+      <workItem from="1574957472329" duration="3443000" />
+      <workItem from="1575020490618" duration="2885000" />
+      <workItem from="1575025630936" duration="2419000" />
+      <workItem from="1575283185826" duration="3497000" />
+      <workItem from="1575287342049" duration="5572000" />
+      <workItem from="1575307015118" duration="608000" />
+      <workItem from="1575380398386" duration="5023000" />
+      <workItem from="1575450694742" duration="3341000" />
+      <workItem from="1575454639884" duration="14278000" />
+      <workItem from="1575537451594" duration="4949000" />
+      <workItem from="1575623072604" duration="5111000" />
+      <workItem from="1576594707139" duration="2996000" />
+      <workItem from="1577105796175" duration="2458000" />
+      <workItem from="1577181977241" duration="682000" />
+      <workItem from="1580296519221" duration="517000" />
+      <workItem from="1581439604225" duration="13000" />
+      <workItem from="1593175848224" duration="2489000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290836000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.19473264" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2801303" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49960095" visible="true" weight="0.40065145" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" weight="0.48051947" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35179153" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32954547" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18834797" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40716612" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960095" weight="0.42996743" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" weight="0.48051947" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23778501" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32954547" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593176792815">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1593176792815" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593176010374">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1593176010374" />
+    <state width="1253" height="208" key="GridCell.Tab.0.bottom" timestamp="1593177959912">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593177959912" />
+    <state width="1253" height="208" key="GridCell.Tab.0.center" timestamp="1593177959911">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1593177959911" />
+    <state width="1253" height="208" key="GridCell.Tab.0.left" timestamp="1593177959911">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1593177959911" />
+    <state width="1253" height="208" key="GridCell.Tab.0.right" timestamp="1593177959911">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1593177959911" />
+    <state width="1253" height="208" key="GridCell.Tab.1.bottom" timestamp="1593177965124">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
+    <state width="1253" height="208" key="GridCell.Tab.1.center" timestamp="1593177965124">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
+    <state width="1253" height="208" key="GridCell.Tab.1.left" timestamp="1593177965124">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
+    <state width="1253" height="208" key="GridCell.Tab.1.right" timestamp="1593177965124">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="208" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
+    <state x="394" y="185" width="635" height="423" key="git4idea.merge.GitPullDialog" timestamp="1593176599765">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="394" y="185" width="635" height="423" key="git4idea.merge.GitPullDialog/67.27.1299.741@67.27.1299.741" timestamp="1593176599765" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -489,424 +403,181 @@
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>110</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>109</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>108</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>121</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>122</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>123</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>137</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>139</line>
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>94</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/intent_handlers/get_intents.py</url>
-          <line>138</line>
-          <option name="timeStamp" value="105" />
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_handlers/get_classes.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="171" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chatbot$sample.coverage" NAME="sample Coverage Results" MODIFIED="1556878373187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chatbot$put_intents.coverage" NAME="put_intents Coverage Results" MODIFIED="1575542034666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intent_handlers" />
+    <SUITE FILE_PATH="coverage/Chatbot$test.coverage" NAME="test Coverage Results" MODIFIED="1575472392989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chatbot$translate_intents.coverage" NAME="translate_intents Coverage Results" MODIFIED="1557384444591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intent_handlers" />
     <SUITE FILE_PATH="coverage/Chatbot$toKabilesh.coverage" NAME="toKabilesh Coverage Results" MODIFIED="1554128413975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Chatbot$main.coverage" NAME="main Coverage Results" MODIFIED="1556774071627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Chatbot$translate_intents.coverage" NAME="translate_intents Coverage Results" MODIFIED="1556770923499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intent_handlers" />
-    <SUITE FILE_PATH="coverage/Chatbot$put_intents.coverage" NAME="put_intents Coverage Results" MODIFIED="1556599392885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intent_handlers" />
-    <SUITE FILE_PATH="coverage/Chatbot$put_entities.coverage" NAME="put_entities Coverage Results" MODIFIED="1556536932609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entity_handlers" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_hbb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="93" column="68" selection-start-line="93" selection-end-line="93" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_mbb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="35" column="48" selection-start-line="35" selection-end-line="35" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_cpl.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="1440" column="33" selection-start-line="1440" selection-start-column="33" selection-end-line="1440" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_mob.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="1253" column="58" selection-start-line="1253" selection-start-column="58" selection-end-line="1253" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_other.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="1616" column="35" selection-start-line="1616" selection-start-column="35" selection-end-line="1616" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_pln.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="120" column="43" selection-start-line="120" selection-start-column="43" selection-end-line="120" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_user.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="1143" column="60" selection-start-line="1143" selection-start-column="60" selection-end-line="1143" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_mbb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="251" column="49" lean-forward="true" selection-start-line="251" selection-start-column="24" selection-end-line="251" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_hbb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12285">
-          <caret line="819" column="89" selection-start-line="819" selection-start-column="28" selection-end-line="819" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_rmg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7575">
-          <caret line="505" column="34" selection-start-line="505" selection-start-column="34" selection-end-line="505" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entity_handlers/put_entities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/root_english.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1666" column="38" selection-start-line="1666" selection-end-line="1666" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_all.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="105" column="53" selection-start-line="105" selection-end-line="105" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_mob.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="113" column="59" selection-start-line="113" selection-end-line="113" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_other.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="146" column="36" selection-start-line="146" selection-end-line="146" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_pln.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="10" column="38" selection-start-line="10" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_pst.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="535" column="54" selection-start-line="535" selection-end-line="535" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_rmg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="58" column="45" selection-start-line="58" selection-end-line="58" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_udf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="139" column="48" selection-start-line="139" selection-end-line="139" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/english_intents/english_user.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="103" column="56" selection-start-line="103" selection-end-line="103" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_user.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="1143" column="67" selection-start-line="1143" selection-start-column="67" selection-end-line="1143" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_udf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19195">
-          <caret line="1539" column="61" selection-start-line="1539" selection-start-column="61" selection-end-line="1539" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_rmg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8814">
-          <caret line="648" column="46" selection-start-line="648" selection-start-column="46" selection-end-line="648" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_pst.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88425">
-          <caret line="5895" column="64" selection-start-line="5895" selection-start-column="64" selection-end-line="5895" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_pln.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_other.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21802">
-          <caret line="1616" column="36" selection-start-line="1616" selection-start-column="36" selection-end-line="1616" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_mbb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5760">
-          <caret line="384" column="78" selection-start-line="384" selection-start-column="78" selection-end-line="384" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_dtv.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24725">
-          <caret line="1704" column="35" selection-start-line="1704" selection-start-column="35" selection-end-line="1704" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_cpl.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20213">
-          <caret line="1429" column="47" selection-start-line="1429" selection-start-column="47" selection-end-line="1429" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_all.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16514">
-          <caret line="1154" column="54" selection-start-line="1154" selection-start-column="54" selection-end-line="1154" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_mob.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1167" column="91" lean-forward="true" selection-start-line="1167" selection-start-column="24" selection-end-line="1167" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/tamil_hbb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="967" column="21" lean-forward="true" selection-start-line="967" selection-start-column="21" selection-end-line="967" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entity_handlers/get_entities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CHITTI-api-credentials.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_udf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="1533" column="74" lean-forward="true" selection-start-line="1533" selection-start-column="29" selection-end-line="1533" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_pst.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="5861" column="26" lean-forward="true" selection-start-line="5861" selection-start-column="26" selection-end-line="5861" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/singlish_intents/singlish_dtv.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tamil_intents/root_tamil.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="18336" column="49" selection-start-line="18336" selection-start-column="49" selection-end-line="18336" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intent_handlers/put_intents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/root_sinhala.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="449" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test/test_sinhala/test_root.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intent_handlers/translate_intents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_all.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1270">
-          <caret line="86" column="60" lean-forward="true" selection-start-line="21" selection-end-line="86" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test/test_sinhala/test_dtv.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="50" lean-forward="true" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test/test_sinhala/test_all.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="73" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intent_handlers/get_intents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sinhala_intents/sinhala_dtv.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1322">
-          <caret line="669" column="44" lean-forward="true" selection-start-line="669" selection-start-column="44" selection-end-line="669" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/Chatbot$put_classes.coverage" NAME="put_classes Coverage Results" MODIFIED="1593177671573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_handlers" />
+    <SUITE FILE_PATH="coverage/Chatbot$main.coverage" NAME="main Coverage Results" MODIFIED="1593177959775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chatbot$put_entities.coverage" NAME="put_entities Coverage Results" MODIFIED="1575285126967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entity_handlers" />
   </component>
 </project>
