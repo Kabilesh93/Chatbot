@@ -2,55 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12a70db-d70f-40dd-a785-1b0cb2766706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class_handlers/put_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sinhala_data/sinhala_hate_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity_handlers/get_entities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity_handlers/put_entities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/get_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_handlers/get_classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/put_intents.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_handlers/translate_intents.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_all.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_cpl.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_dtv.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_hbb.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_mbb.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_mob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_other.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_pln.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_pst.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_rmg.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_udf.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/english_user.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/english_intents/root_english.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/root_sinhala.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_all.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_cpl.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_dtv.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_hbb.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_mbb.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_mob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_other.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_pln.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_pst.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_rmg.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_udf.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/sinhala_intents/sinhala_user.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/root_tamil.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_all.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_cpl.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_dtv.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_hbb.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_mbb.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_mob.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_other.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_pln.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_pst.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_rmg.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_udf.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intent_models/tamil_intents/tamil_user.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/sinhala_data/sinhala_hate_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/sinhala_data/sinhala_hate_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +41,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chatbot_Optimization" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -94,6 +50,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -309,8 +266,16 @@
       <workItem from="1577181977241" duration="682000" />
       <workItem from="1580296519221" duration="517000" />
       <workItem from="1581439604225" duration="13000" />
-      <workItem from="1593175848224" duration="2489000" />
+      <workItem from="1593175848224" duration="4089000" />
     </task>
+    <task id="LOCAL-00001" summary="Hate Classifier">
+      <created>1593178354694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593178354694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,47 +293,59 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hate Classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hate Classifier" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593176792815">
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593179841378">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1593176792815" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1593179841378" />
+    <state x="246" y="27" width="930" height="741" key="CommitChangelistDialog2" timestamp="1593178354447">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="246" y="27" width="930" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1593178354447" />
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593176010374">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1593176010374" />
-    <state width="1253" height="208" key="GridCell.Tab.0.bottom" timestamp="1593177959912">
+    <state width="1253" height="215" key="GridCell.Tab.0.bottom" timestamp="1593179873091">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593177959912" />
-    <state width="1253" height="208" key="GridCell.Tab.0.center" timestamp="1593177959911">
+    <state width="1253" height="215" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593179873091" />
+    <state width="1253" height="215" key="GridCell.Tab.0.center" timestamp="1593179873091">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1593177959911" />
-    <state width="1253" height="208" key="GridCell.Tab.0.left" timestamp="1593177959911">
+    <state width="1253" height="215" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1593179873091" />
+    <state width="1253" height="215" key="GridCell.Tab.0.left" timestamp="1593179873090">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1593177959911" />
-    <state width="1253" height="208" key="GridCell.Tab.0.right" timestamp="1593177959911">
+    <state width="1253" height="215" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1593179873090" />
+    <state width="1253" height="215" key="GridCell.Tab.0.right" timestamp="1593179873091">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1593177959911" />
-    <state width="1253" height="208" key="GridCell.Tab.1.bottom" timestamp="1593177965124">
+    <state width="1253" height="215" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1593179873091" />
+    <state width="1253" height="184" key="GridCell.Tab.1.bottom" timestamp="1593178637310">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
-    <state width="1253" height="208" key="GridCell.Tab.1.center" timestamp="1593177965124">
+    <state width="1253" height="184" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1593178637310" />
+    <state width="1253" height="184" key="GridCell.Tab.1.center" timestamp="1593178637310">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
-    <state width="1253" height="208" key="GridCell.Tab.1.left" timestamp="1593177965124">
+    <state width="1253" height="184" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1593178637310" />
+    <state width="1253" height="184" key="GridCell.Tab.1.left" timestamp="1593178637309">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
-    <state width="1253" height="208" key="GridCell.Tab.1.right" timestamp="1593177965124">
+    <state width="1253" height="184" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1593178637309" />
+    <state width="1253" height="184" key="GridCell.Tab.1.right" timestamp="1593178637310">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="208" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1593177965124" />
+    <state width="1253" height="184" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1593178637310" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1593178383721">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1593178383721" />
     <state x="394" y="185" width="635" height="423" key="git4idea.merge.GitPullDialog" timestamp="1593176599765">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -576,8 +553,8 @@
     <SUITE FILE_PATH="coverage/Chatbot$test.coverage" NAME="test Coverage Results" MODIFIED="1575472392989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chatbot$translate_intents.coverage" NAME="translate_intents Coverage Results" MODIFIED="1557384444591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intent_handlers" />
     <SUITE FILE_PATH="coverage/Chatbot$toKabilesh.coverage" NAME="toKabilesh Coverage Results" MODIFIED="1554128413975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/Chatbot$put_classes.coverage" NAME="put_classes Coverage Results" MODIFIED="1593177671573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_handlers" />
-    <SUITE FILE_PATH="coverage/Chatbot$main.coverage" NAME="main Coverage Results" MODIFIED="1593177959775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chatbot$put_classes.coverage" NAME="put_classes Coverage Results" MODIFIED="1593179847456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_handlers" />
+    <SUITE FILE_PATH="coverage/Chatbot$main.coverage" NAME="main Coverage Results" MODIFIED="1593179873076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chatbot$put_entities.coverage" NAME="put_entities Coverage Results" MODIFIED="1575285126967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entity_handlers" />
   </component>
 </project>
